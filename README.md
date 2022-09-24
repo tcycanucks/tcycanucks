@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tcycanucks. I am currently a UBC student studying engineering.
+- 👀 I’m interested in sports, music, and developing my programming skills.
+- 🌱 I’m currently learning to code in C.
+- 💞️ I’m looking to collaborate on anything!
+- 📫 How to reach me: shoot me an email at chemisthebest001@gmail.com
